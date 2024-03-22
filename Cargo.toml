@@ -1,0 +1,7 @@
+workspace = { members = ["http", "httpserver", "tcpclient", "tcpserver"] }
+[package]
+name = "learning_web_primitives"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
